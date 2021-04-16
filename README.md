@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielFeliciano
 - 👀 I’m interested in programming in general
-- 🌱 I’m currently learning nestJs
+- 🌱 I’m currently learning nestJs, Rust and Elm
 - 💞️ I’m looking to collaborate on ... uhm ...
 - 📫 How to reach me: gfp001@outlook.com
 
