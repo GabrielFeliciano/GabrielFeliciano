@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Wiring-%2300599C.svg?&logo=C&style=for-the-badge&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/-git-orange.svg?&logo=git&style=for-the-badge&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-node%20js-2ea51d.svg?&logo=git&style=for-the-badge&logoColor=white" alt="Node JS">
+  <img src="https://img.shields.io/badge/-Next JS-61DAFB.svg?&logo=react&style=for-the-badge&logoColor=black" alt="Next JS">
   <img src="https://img.shields.io/badge/-Nest JS-d9224c.svg?&logo=nestjs&style=for-the-badge&logoColor=white" alt="Nest JS">
-  <img src="https://img.shields.io/badge/-Ubuntu-f75421.svg?&logo=ubuntu&style=for-the-badge&logoColor=white" alt="Nest JS">
+  <img src="https://img.shields.io/badge/-Ubuntu-f75421.svg?&logo=ubuntu&style=for-the-badge&logoColor=white" alt="Ubuntu">
 <p>
