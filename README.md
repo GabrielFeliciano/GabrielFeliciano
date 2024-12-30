@@ -8,3 +8,5 @@ Estudei na escola técnica de eletrónica ETEFMC, aprendendo os conceitos básic
 Tenho bastante horas práticas com Node.JS, mas já também participei do desenvolvimento de um sistema com Elixir/Phoenix que aplicava alguns conceitos de Domain Driven Design. Também tenho experiencia com React aplicado no NextJS (12 e 14).
 
 Atualmente estou estudando os principais serviços oferecidos pela AWS. Futuramente, gostaria de melhorar minhas habilidades para criar sistemas web simples que atendem aos objetivos com o mínimo de complexidade, com tecnologias como HTMX.
+
+<sub><a href="https://www.tiktok.com/@jizokuart/video/7114790607993785605">Fonte da imagem :></a></sub>
